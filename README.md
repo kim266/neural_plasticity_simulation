@@ -8,7 +8,8 @@ Read our detailed blog post about this project: [Simulating Brain Healing: How N
 
 Watch our demonstration video to see neural plasticity in action:
 
-![Neural Plasticity Simulation Demo](neural_plasticity.mp4)
+<video src="neural_plasticity.mp4" controls="controls" style="max-width: 100%;">
+</video>
 
 *This video showcases how neurons adapt, compensate, and recover after simulated damage, providing a visualization of the brain's remarkable healing process.*
 
